@@ -45,7 +45,7 @@ Face_Recognition/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/HimadeepRagiri/ML-and-DL-Projects.git
+git clone https://github.com/HimadeepRagiri/Face_Recognition.git
 cd Face_Recognition
 ```
 
